@@ -12,4 +12,4 @@ import scipy as sc
 
 print("hoi")
 print('doei')
-print('oefening met pap')
+print('oefening met pap 2')
